@@ -1,2 +1,2 @@
 # java-project
-# Adriane Larson
+# Adriane Larson SEIS
